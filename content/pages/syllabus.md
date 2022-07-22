@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on prerequisites,
+  materials, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ad053861-e237-c220-81f6-3cc06805398f
 ---
@@ -47,7 +51,7 @@ Stryker, Susan. _Transgender History_. Seal Press, 2008. ISBN: 9781580052245.
 
 Levi, Robin, and Ayelet Waldman, eds. _Inside this Place, Not of It: Narratives from Women's Prisons_. McSweeney's Books, 2011. ISBN: 9781936365500.
 
-Remaining readings come from a variety of sources and are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Remaining readings come from a variety of sources and are detailed in the {{% resource_link a2e8a842-8da7-980e-4946-0b669a26985c "Readings" %}} section.
 
 Grading Policy
 --------------
@@ -104,4 +108,4 @@ Research paper and proposal
 
 {{< tableclose >}}
 
-For further detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, see the {{% resource_link f534d323-3507-bf84-a80b-8b2924cdadd1 "Assignments" %}} section.
