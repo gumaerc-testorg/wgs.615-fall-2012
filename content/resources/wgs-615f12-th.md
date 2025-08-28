@@ -4,7 +4,7 @@ description: The London Feminist Network is a women-only feminist networking and
   organization based in the UK. Founded in 2004, their mission is to unite London-based
   feminist groups and individuals in action. Image courtesy of Mike Atherton on Flickr.
   Available CC BY-NC-SA.
-file: /courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012/9f27dc7b2d7ef67ffac99260d4ae99dc_WGS-615f12-th.jpg
+file: /ol-ocw-studio-app/courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012/9f27dc7b2d7ef67ffac99260d4ae99dc_WGS-615f12-th.jpg
 file_size: 12090
 file_type: image/jpeg
 image_metadata:
