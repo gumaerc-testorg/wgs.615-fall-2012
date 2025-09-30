@@ -15,7 +15,7 @@ The books listed below are the main readings for the course.
 
 \[Davis\] = Davis, Angela Y. *Are Prisons Obsolete*? Seven Stories Press, 2003. ISBN: 9781583225813.
 
-\[Dreger\] = Dreger, Alice Domurat. *One of Us: Conjoined Twins and the Future of Normal*. Harvard University Press, 2005. ISBN: 9780674018259. \[Preview with [Google Books](http://books.google.com/books?id=dcRa9AvmSGkC&printsec=frontcover)\]
+\[Dreger\] = Dreger, Alice Domurat. *One of Us: Conjoined Twins and the Future of Normal*. Harvard University Press, 2005. ISBN: 9780674018259. \[Preview with {{% resource_link "a9083990-fdf4-4451-8a2b-4c1504395b00" "Google Books" %}}\]
 
 \[Lahiri\] = Lahiri, Jhumpa. *Unaccustomed Earth*. Vintage Books, 2009. ISBN: 9780307278258.
 
@@ -39,13 +39,13 @@ READINGS
 Introduction: Questions of Method / Theory
 {{< tdclose >}}{{< tdopen >}}
 
-Moi, Toril. "["I Am Not a Feminist, But…": How Feminism Became the F-Word." (PDF)](http://www.torilmoi.com/wp-content/uploads/2009/09/Moi_PMLA_2006.pdf) *Prevention of Money Laundering Act* 121, no. 5, (2006) 1735–41.
+Moi, Toril. "{{% resource_link "ca21acc3-8189-40fd-b6ec-142efc2b0af0" "\"I Am Not a Feminist, But…\": How Feminism Became the F-Word.\" (PDF)" %}} *Prevention of Money Laundering Act* 121, no. 5, (2006) 1735–41.
 
 Eisenstein, Zillah R. "The Problem of Theorizing Feminism." In *Contemporary Feminist Theory: A Text / Reader.* Edited by Mary F. Rogers. McGraw-Hill, 1997, pp. 484–90. ISBN: 9780070540026.
 
-Harding, Sandra. "Introduction: Is There a Feminist Method?" In *Feminism and Methodology: Social Science Issues.* Indiana University Press, 1988, pp. 1–14. ISBN: 9780253204448. \[Preview with [Google Books](http://books.google.com/books?id=w2gzw6zz4fIC&pg=PA1#v=onepage)\]
+Harding, Sandra. "Introduction: Is There a Feminist Method?" In *Feminism and Methodology: Social Science Issues.* Indiana University Press, 1988, pp. 1–14. ISBN: 9780253204448. \[Preview with {{% resource_link "ead4cf43-547e-49ea-abad-380ffffc7997" "Google Books" %}}\]
 
-Mohanty, Chandra Talpade. "[Under Western Eyes: Feminist Scholarship and Colonial Discourses." (PDF - 2.1MB)](http://www.sfu.ca/~decaste/OISE/page2/files/MohantyWesternEyes.pdf) *Feminist Review* 30 (1988): 61–88.
+Mohanty, Chandra Talpade. "{{% resource_link "c85b297d-174a-4a47-a368-f3a3c9acce2c" "Under Western Eyes: Feminist Scholarship and Colonial Discourses.\" (PDF - 2.1MB)" %}} *Feminist Review* 30 (1988): 61–88.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -71,11 +71,11 @@ Rich, Adrienne. "Compulsory Heterosexuality and Lesbian Existence." In *Blood, B
 
 Scott, Joan Wallach "Gender: A Useful Category of Historical Analysis." Chapter 2 in *Gender and the Politics of History. Revised edition.* Columbia University Press, 1999, pp. 28–50. ISBN: 9780231118576.
 
-Ahmed, Sara. "[Whose Counting](http://dx.doi.org/10.1177/14647000022229083)?" *Feminist Theory* 1, no. 1 (2000): 97–103.
+Ahmed, Sara. "{{% resource_link "b815f554-0a38-44a1-803c-1fb6e3a2b489" "Whose Counting" %}}?" *Feminist Theory* 1, no. 1 (2000): 97–103.
 
-Winter, Bronwyn. "[Who Counts (or Doesn't Count) What as Feminist Theory? An exercise in Dictionary Use](http://dx.doi.org/10.1177/14647000022229092)." *Feminist Theory* 1, no. 1 (2000): 105–11.
+Winter, Bronwyn. "{{% resource_link "088b0363-4620-4395-b2c3-6b3240e6f93e" "Who Counts (or Doesn't Count) What as Feminist Theory? An exercise in Dictionary Use" %}}." *Feminist Theory* 1, no. 1 (2000): 105–11.
 
-Ermath, Elizabeth. "\[What Counts as Feminist Theory\]([http://dx.doi.org/](http://dx.doi.org/) 10.1177/14647000022229100)?" *Feminist Theory* 1, no. 1 (2000): 113–18.
+Ermath, Elizabeth. "\[What Counts as Feminist Theory\]({{% resource_link "3d336b0f-76d8-410c-9ecf-14de06a7dd19" "http://dx.doi.org/" %}} 10.1177/14647000022229100)?" *Feminist Theory* 1, no. 1 (2000): 113–18.
 
 Spivak, Gayatri Chakravorty. "Three Women's Texts and a Critique of Imperialism." Chapter 3.4 in *Feminist Postcolonial Theory: A Reader. Edited by Reina Lewis and Sara Mills*. Routledge, 2003, pp. 306–23. ISBN: 9780415942751.
 
@@ -95,7 +95,7 @@ Questions and Strategies: The Sciences
 
 \[Lederman\] "Creating Sustainable Science." Chapter 34, pp. 466–82.
 
-Wilson, Elizabeth A. "[Somatic Compliance–Feminism, Biology and Science](http://dx.doi.org/10.1080/08164649993290)." *Australian Feminist Studies* 14, no. 29 (1999): 7–18.
+Wilson, Elizabeth A. "{{% resource_link "535c9ca0-3c8a-4299-93ea-ec60a106afd8" "Somatic Compliance–Feminism, Biology and Science" %}}." *Australian Feminist Studies* 14, no. 29 (1999): 7–18.
 
 *For reference:*
 
@@ -107,7 +107,7 @@ National Academy of Sciences, National Academy of Engineering, and Institute of 
 Questions of Narration and Experience
 {{< tdclose >}}{{< tdopen >}}
 
-Weiler, Kathleen. "[Reflections on Writing a History of Women Teachers](http://dx.doi.org/10.17763/haer.67.4.jr17u2244k168470)." *Harvard Educational Review* 67, no. 4 (1997): 635–57.
+Weiler, Kathleen. "{{% resource_link "0a2931ee-1dc9-4322-9152-31856f2d7c35" "Reflections on Writing a History of Women Teachers" %}}." *Harvard Educational Review* 67, no. 4 (1997): 635–57.
 
 \[Lederman\] "From Working Scientist to Feminist Critic." Chapter 7, pp. 59–63.
 
@@ -133,7 +133,7 @@ Butler, Judith. Excerpt from *Bodies that Matter: On the Discursive Limits of "S
 Bodies in Culture
 {{< tdclose >}}{{< tdopen >}}
 
-Halberstam, Judith. "An Introduction to Female Masculinity: Masculinity without Men." Chapter 1 in *Female Masculinity*. Duke University Press. 1998, pp. 1–43. ISBN: 9780822322436. \[Preview with [Google Books](http://books.google.com/books?id=UYAi9OEYRekC&printsec=frontcover)\]
+Halberstam, Judith. "An Introduction to Female Masculinity: Masculinity without Men." Chapter 1 in *Female Masculinity*. Duke University Press. 1998, pp. 1–43. ISBN: 9780822322436. \[Preview with {{% resource_link "edb4f2b8-539b-48d0-8fb2-5bd3fb7280b4" "Google Books" %}}\]
 
 \[Stryker\]
 
@@ -143,7 +143,7 @@ Halberstam, Judith. "An Introduction to Female Masculinity: Masculinity without 
 Bodies and State Power
 {{< tdclose >}}{{< tdopen >}}
 
-Hodes, Martha. "[The Mercurial Nature and Abiding Power of Race: A Transnational Family Story](http://www.mixedracestudies.org/wordpress/?p=4668)." *American Historical Review* 108, no. 1 (2003): 84–118.
+Hodes, Martha. "{{% resource_link "4d733e76-da3d-44c5-871c-d8800a8d1699" "The Mercurial Nature and Abiding Power of Race: A Transnational Family Story" %}}." *American Historical Review* 108, no. 1 (2003): 84–118.
 
 \[Davis\]
 
@@ -163,7 +163,7 @@ Roy, Modhumita. "Foreign Babies / Indian Make: Outsourcing Reproduction in the A
 
 Ragoné, Helena. "Of Likeness and Difference: How Race Is being Transfigured by Gestational Surrogacy." Chapter 2 in *Ideologies and Technologies of Motherhood: Race, Class, Sexuality, Nationalism*. Edited by Helena Ragoné and France Winddance Twine. Routledge, 2000. ISBN: 9780415921107.
 
-Colen, Shellee. "Like a Mother to Them: Stratified Reproduction and West Indian Childcare Workers and Employers in New York." Chapter 5 in *Conceiving the New World Order: The Global Politics of Reproduction*. Edited by Faye D. Ginsburg and Rayna Rapp. University of California Press, 1995. ISBN: 9780520089143. \[Preview with [Google Books](http://books.google.com/books?id=KiILFy6TKCgC&pg=PA78#v=onepage)\]
+Colen, Shellee. "Like a Mother to Them: Stratified Reproduction and West Indian Childcare Workers and Employers in New York." Chapter 5 in *Conceiving the New World Order: The Global Politics of Reproduction*. Edited by Faye D. Ginsburg and Rayna Rapp. University of California Press, 1995. ISBN: 9780520089143. \[Preview with {{% resource_link "3343b1f6-d87e-4314-b30d-d5b4c492477f" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -175,7 +175,7 @@ Bodies and Identities: The Case of Conjoined Twins
 
 *Viewing*
 
-TEDtalksDirector. "Alice Dreger: is anatomy destiny?" June 10, 2011. YouTube. Accessed July 25, 2013. [https://www.youtube.com/watch?v=59-Rn1_kWAA](https://www.youtube.com/watch?v=59-Rn1_kWAA)
+TEDtalksDirector. "Alice Dreger: is anatomy destiny?" June 10, 2011. YouTube. Accessed July 25, 2013. {{% resource_link "52f0c5ef-ec79-45f3-a7e1-26e51370934e" "https://www.youtube.com/watch?v=59-Rn1_kWAA" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -205,9 +205,9 @@ The Crucial Question: What is to be Done?
 
 Spalter-Roth, Roberta, and Heidi Hartmann. "Small Happinesses: The Feminist Struggle to Integrate Social Research and Social Activism." Chapter 15 in *Feminist Approaches to Theory and Methodology: An Interdisciplinary Reader*. Edited by Sharlene Hesse-Buber, Christina Gilmartin, and Robin Lydenberg. Oxford University Press, 1999, pp. 333–47. ISBN: 9780195125221.
 
-Turner, Jenny. "[As Many Pairs of Shoes as She Likes](http://www.lrb.co.uk/v33/n24/jenny-turner/as-many-pairs-of-shoes-as-she-likes)." *London Review of Books* 33, no. 24 (2011): 11–5.
+Turner, Jenny. "{{% resource_link "cb930238-f8e3-4137-a9ca-6d5a00f0073c" "As Many Pairs of Shoes as She Likes" %}}." *London Review of Books* 33, no. 24 (2011): 11–5.
 
-Halberstam, Judith. "Introduction: Low Theory." In *The Queer Art of Failure*. Duke University Press, 2011. ISBN: 9780822350453. \[Preview with [Google Books](http://books.google.com/books?id=dwdYVrSbupcC&pg=PA1#v=onepage)\]
+Halberstam, Judith. "Introduction: Low Theory." In *The Queer Art of Failure*. Duke University Press, 2011. ISBN: 9780822350453. \[Preview with {{% resource_link "4326156a-635f-482e-bc71-1aaf641c3289" "Google Books" %}}\]
 
 Sanders, Lise Shapiro. "Feminists Love a Utopia: Collaboration, Conflict and the Futures of Feminism." Chapter 1 in *Third Wave Feminism: A Critical Exploration*. 2nd ed. Edited by Stacy Gillis, Gillian Howie, and Rebecca Munford. Palgrave McMillan, 2007. ISBN: 9780230521742.
 
